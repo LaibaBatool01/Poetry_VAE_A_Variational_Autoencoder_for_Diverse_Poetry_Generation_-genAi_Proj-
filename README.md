@@ -213,9 +213,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Bowman, S. R., et al. (2016). Generating Sentences from a Continuous Space
 - Zhang, Y., et al. (2019). Learning to Generate Poetry with Mixed Neural Models
 
-## 📞 Contact
-
-Feel free to reach out for questions, suggestions, or collaborations!
 
 ---
 
