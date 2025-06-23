@@ -188,17 +188,6 @@ This implementation demonstrates:
 
 See `Poetry VAE (genAi).pdf` for detailed research findings, experimental results, and comprehensive analysis.
 
-## 🤝 Contributing
-
-Contributions are welcome! Areas for improvement:
-- Additional generation strategies (GPT-style autoregressive)
-- Fine-tuning on specific poetry styles
-- Integration with transformer architectures
-- Web interface for interactive generation
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
