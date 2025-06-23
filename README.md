@@ -66,11 +66,9 @@ This project is optimized for **Google Colab with T4 GPU**. Simply upload the no
 
 ```bash
 # Clone the repository
-git clone https://github.com/LaibaBatool01/poetry-vae.git
-cd poetry-vae
+git clone https://github.com/LaibaBatool01/Poetry_VAE_A_Variational_Autoencoder_for_Diverse_Poetry_Generation_-genAi_Proj-.git
+cd Poetry_VAE_A_Variational_Autoencoder_for_Diverse_Poetry_Generation_-genAi_Proj-
 
-# Install dependencies
-pip install -r requirements.txt
 
 # Run the notebook
 jupyter notebook Poetry_VAE_A_Variational_Autoencoder_for_Diverse_Poetry_Generation_(genAi_Proj).ipynb
